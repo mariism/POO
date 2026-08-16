@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Declaracion de punteros/Declaracion de punteros.vcxproj" />
-</Solution>
