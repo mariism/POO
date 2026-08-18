@@ -21,7 +21,7 @@ int main()
         es_primo = false;
     }
     else {
-        for (int i = 2; i * i <= *dir_numero;i++) {
+        for (int i = 2; i * i <= *dir_numero;i++) { // Va viendo con la raiz del numero
             if (*dir_numero % i == 0) {
                 es_primo = false;
                 break; // Se detiene al encontrar primer divisor
